@@ -13,7 +13,7 @@ export const SVGImage: FunctionComponent<SVGImageProps> = ({
   style,
   circle,
 }) => {
-  const svgStyle: CSSProperties = { ...(style || {}) };
+  const svgStyle: CSSProperties = style || {};
   if (!style?.width) svgStyle.width = '100%';
   if (!style?.height) svgStyle.height = '100%';
 
