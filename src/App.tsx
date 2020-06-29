@@ -1,5 +1,6 @@
 import React, { FunctionComponent } from 'react';
 import { PageContainer } from './components/layout';
+import { SVGImage } from './components/generic/SVGImage';
 
 export const App: FunctionComponent<void> = () => {
   return (
@@ -23,6 +24,10 @@ export const App: FunctionComponent<void> = () => {
         PageMaker including versions of Lorem Ipsum.
       </p>
       <button className={'button button-emerald-green'}>click me</button>
+      <SVGImage
+        className={'rounded-lg'}
+        image={`https://via.placeholder.com/100x100`}
+      />
     </PageContainer>
   );
 };
