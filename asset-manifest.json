@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.fb7afb05.chunk.js",
-    "main.js.map": "/static/js/main.fb7afb05.chunk.js.map",
+    "main.js": "/static/js/main.750ed54d.chunk.js",
+    "main.js.map": "/static/js/main.750ed54d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f8c5b4be.js",
     "runtime-main.js.map": "/static/js/runtime-main.f8c5b4be.js.map",
     "static/js/2.e8a8cbe7.chunk.js": "/static/js/2.e8a8cbe7.chunk.js",
     "static/js/2.e8a8cbe7.chunk.js.map": "/static/js/2.e8a8cbe7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e15117247bfce41c481378f075886a7d.js": "/precache-manifest.e15117247bfce41c481378f075886a7d.js",
+    "precache-manifest.3b759e48e659f253408f33122c3a6f31.js": "/precache-manifest.3b759e48e659f253408f33122c3a6f31.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.e8a8cbe7.chunk.js.LICENSE.txt": "/static/js/2.e8a8cbe7.chunk.js.LICENSE.txt",
-    "static/media/building.f6ae63ca.svg": "/static/media/building.f6ae63ca.svg",
-    "static/media/colorful-green-background.jpg": "/static/media/colorful-green-background.fd40f495.jpg"
+    "static/media/building.f6ae63ca.svg": "/static/media/building.f6ae63ca.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f8c5b4be.js",
     "static/js/2.e8a8cbe7.chunk.js",
-    "static/js/main.fb7afb05.chunk.js"
+    "static/js/main.750ed54d.chunk.js"
   ]
 }
