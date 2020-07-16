@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.tsx"],"names":["Index"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OAAO","file":"component---src-pages-index-tsx-d0b84980dbffb4c350a5.js","sourcesContent":["import React from 'react';\n\nexport default function Index() {\n  return <>home</>;\n}\n"],"sourceRoot":""}
