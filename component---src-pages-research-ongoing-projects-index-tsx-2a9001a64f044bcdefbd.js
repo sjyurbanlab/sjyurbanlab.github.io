@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{YX22:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return u}));var r=e("q1tI"),o=e.n(r);function u(){return o.a.createElement(o.a.Fragment,null,"Ongoing Projects")}}}]);
-//# sourceMappingURL=component---src-pages-research-ongoing-projects-index-tsx-2a9001a64f044bcdefbd.js.map
